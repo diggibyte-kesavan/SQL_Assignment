@@ -72,7 +72,7 @@
 
 2.Insert the records in the table.
 
-Write a query to find gmail accounts with latest and first signup date and difference between both the dates and also write the query to replace null value with ‘1970-01-01’.
+3.Write a query to find gmail accounts with latest and first signup date and difference between both the dates and also write the query to replace null value with ‘1970-01-01’.
 
 ## Question 5:
 
